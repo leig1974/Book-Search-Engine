@@ -14,6 +14,7 @@
   "author": "Leig",
   "license": "ISC",
   "dependencies": {
+    "debug": "^4.3.4",
     "if-env": "^1.0.4"
   },
   "devDependencies": {
